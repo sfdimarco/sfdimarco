@@ -43,7 +43,7 @@ Three white papers documenting the research behind the code:
 ### 🟦 [sfdimarco.github.io](https://github.com/sfdimarco/sfdimarco.github.io)
 Portfolio site built around the SYN color system. Features a live canvas animation where digits from my synesthetic palette breathe, pulse, and drift across the screen. Not decorative — it's the site explaining what it is.
 
-### 🟧 [p5-blockly-coding](https://github.com/sfdimarco/p5-blocky-coding) · [**try it live →**](https://sfdimarco.github.io/p5-blocky-coding/)
+### 🟧 [p5-blocky-coding](https://github.com/sfdimarco/p5-blocky-coding) · [**try it live →**](https://sfdimarco.github.io/p5-blocky-coding/)
 A three-panel visual coding environment: Blockly blocks → generated JavaScript → live p5.js canvas. Built for kids who learn by watching things move. No install, no account, runs in the browser.
 
 ### 🟨 [rainbowbrain-dalle](https://github.com/sfdimarco/rainbowbrain-dalle)
