@@ -25,7 +25,7 @@ I have **grapheme-color synesthesia** — digits involuntarily appear as specifi
 
 ## Active Research
 
-### 🟩 [BinaryQuadTreeCPUTest](https://github.com/sfdimarco/BinaryQuadTreeCPUTest)
+### 🟩 [SpatialToleranceCompression](https://github.com/sfdimarco/SpatialToleranceCompression)
 Two experiments on one insight: *a square can always be divided into four smaller squares, and that fact is a complete computational primitive.*
 
 - **GEO Grammar Engine** — a declarative scripting language where 4-bit masks program fractal geometry that evolves over time. 35+ example scripts.
