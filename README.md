@@ -19,7 +19,6 @@ Boston, MA &nbsp;·&nbsp; [sfdimarco.github.io](https://sfdimarco.github.io) &nb
 
 I've spent 10 years handing technology to K–8 students and watching what breaks. That's not a metaphor for user testing — it's field research. I teach at The Chestnut Hill School, have deployed tools across 25+ schools via EMPOW Studios, and I build everything myself: browser tools, Unity simulations, AI servers, image codecs.
 
-I have **grapheme-color synesthesia** — digits involuntarily appear as specific colors. The color bar above is my perceptual map for 0–7. My UI decisions aren't aesthetic preferences. They're data.
 
 ---
 
